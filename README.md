@@ -1,7 +1,6 @@
 
 <h1 align="center">Hey!! 👋, I'm Durgesh Tiwari</h1>
 <h2 align="center">"An enthusiastic computer science fresher, learner and doer. Responsibility and opportunities for progression"</h2>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durgeshtiwarai&label=Profile%20views&color=0e75b6&style=flat" alt="durgeshtiwari" /> </p>
@@ -23,13 +22,13 @@
 <h3 align="left"> Projects :</h3>
   1.<a href="https://durg83034.github.io/Exp-08/experiment/simulation/index.html" target="blank">Determine The Saponification Value of Oil.</a>
   
-<h4 align="left">Licenses & Certifications :</h4>
+<h3 align="left">Licenses & Certifications :</h3>
 <a href="https://www.hackerrank.com/certificates/d7792f9e73c3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@alldchannel13" height="30" width="40" /></a>
 <a href="https://www.mygreatlearning.com/certificate/XKVCGHJV" target="blank"><img align="center" src="great_learning_logo.png" alt="mygreatlearning" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/posts/durgesh-tiwari-84ba76271_internship-certificate-activity-7233103727698583553-R80G/" target="blank"><img align="center" src="iitk_logo.png" alt="V-Lab" height="30" width="35" /></a>
    
    
-<h5 align="left">Connect With Me:</h5>
+<h3 align="left">Connect With Me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/durgesh-tiwari-84ba76271/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="girish-shukla-a33b4820b" height="30" width="40" /></a>
 <a href="https://www.instagram.com/itdurgesh/?igshid=NTc4MTIwNjQ2YQ%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="girishnandanshukla" height="30" width="40" /></a>
