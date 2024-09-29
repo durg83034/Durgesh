@@ -10,11 +10,12 @@
 
 - 🌱 I’m currently learning **Front-End**
 
-- 💬 Ask me about **Java, DSA, Problem Solving**
+- 💬 Ask me about **Java, DSA, Problem Solving, MySQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/durg83034](https://github.com/durg83034)
 
-- 📫 How to reach me **durgesh83034@gmail.com**
+- 📫 How to reach me **@durgesh83034@gmail.com**
+- E-mail: [durgesh83034@gmail.com](durgesh83034@gmail.com)
 
 - 📄 Know about my experiences [https://www.linkedin.com/feed/](https://www.linkedin.com/in/durgesh-tiwari-84ba76271/)
 
