@@ -49,8 +49,8 @@
 <a href="https://www.bluej.org/" target="_blank" rel="noreferrer"> <img src="Bluej.png" alt="BlueJ" width="40" height="30"/> </a>
 
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=durgeshtiwari&show_icons=true&locale=en&layout=compact" alt="durgeshtiwari" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=durg83034 &show_icons=true&locale=en&layout=compact" alt="durgeshtiwari" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=durgeshtiwari&show_icons=true&locale=en" alt="durgeshtiwari" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=durg83034&show_icons=true&locale=en" alt="durgeshtiwari" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=durgeshtiwari&" alt="durgeshtiwari" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=durg83034&" alt="durgeshtiwari" /></p>
