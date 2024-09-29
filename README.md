@@ -24,9 +24,9 @@
   1.<a href="https://durg83034.github.io/Exp-08/experiment/simulation/index.html" target="blank">Determine The Saponification Value of Oil.</a>
   
 <h4 align="left">Licenses & Certifications :</h4>
-   1. <a href="https://www.hackerrank.com/certificates/d7792f9e73c3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@alldchannel13" height="30" width="40" /></a>
-   2. <a href="https://www.mygreatlearning.com/certificate/XKVCGHJV" target="blank"><img align="center" src="great_learning_logo.png" alt="mygreatlearning" height="30" width="40" /></a>
-   3.<a href="https://www.linkedin.com/posts/durgesh-tiwari-84ba76271_internship-certificate-activity-7233103727698583553-R80G/" target="blank"><img align="center" src="iitk_logo.png" alt="V-Lab" height="30" width="35" /></a>
+<a href="https://www.hackerrank.com/certificates/d7792f9e73c3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@alldchannel13" height="30" width="40" /></a>
+<a href="https://www.mygreatlearning.com/certificate/XKVCGHJV" target="blank"><img align="center" src="great_learning_logo.png" alt="mygreatlearning" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/posts/durgesh-tiwari-84ba76271_internship-certificate-activity-7233103727698583553-R80G/" target="blank"><img align="center" src="iitk_logo.png" alt="V-Lab" height="30" width="35" /></a>
    
    
 <h5 align="left">Connect With Me:</h5>
