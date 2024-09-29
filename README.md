@@ -49,7 +49,7 @@
 <a href="https://www.bluej.org/" target="_blank" rel="noreferrer"> <img src="Bluej.png" alt="BlueJ" width="40" height="30"/> </a>
 
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=durg83034 &show_icons=true&locale=en&layout=compact" alt="durgeshtiwari" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=durg83034&show_icons=true&locale=en&layout=compact" alt="durgeshtiwari" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=durg83034&show_icons=true&locale=en" alt="durgeshtiwari" /></p>
 
