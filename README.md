@@ -30,11 +30,12 @@
    
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/durgesh-tiwari-84ba76271/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="girish-shukla-a33b4820b" height="30" width="40" /></a>
-<a href="https://www.instagram.com/itdurgesh/?igshid=NTc4MTIwNjQ2YQ%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="girishnandanshukla" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/durgesh-tiwari-84ba76271/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="durgesh-tiwari-84ba76271" height="30" width="40" /></a>
+<a href="https://www.instagram.com/itdurgesh/?igshid=NTc4MTIwNjQ2YQ%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="DurgeshTiwari" height="30" width="40" /></a>
 
 <a href="https://www.hackerrank.com/profile/alldchannel3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@alldchannel13" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/alldchaws6b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="alldchaws6b" height="30" width="40" /></a>
+<a href="https://learn.microsoft.com/en-us/users/durgeshtiwari-5928/achievements?tab=tab-modules" target="blank"><img align="center" src="ms.png" alt="Microsoft" height="30" width="40" /></a>
 </p>
 
 <h3 align="left"> Languages :</h3>
