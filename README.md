@@ -1,9 +1,9 @@
 <a href="https://durg83034.github.io/Portfolio/" target="blank">BACK</a>
-<h1 align="center">Hi 👋, I'm Girish</h1>
-<h3 align="center">"From DSA Enthusiast to Web Wizard: Unleashing the Power of Algorithms and Embracing the Web"</h3>
+
+
 <h1 align="center">Hey!! 👋, I'm <a href="https://durg83034.github.io/Portfolio/" target="blank"> Durgesh Tiwari,</a></h1>
 <h2 align="center">"An enthusiastic computer science fresher, learner and doer. Responsibility and opportunities for progression"</h2>
-<img align="right" alt="Coding" width="400" src="hfsi.png">
+<img align="right" alt="Coding" width="400" height="300" src="hfsi.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durgeshtiwarai&label=Profile%20views&color=0e75b6&style=flat" alt="durgeshtiwari" /> </p>
 
