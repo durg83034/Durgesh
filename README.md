@@ -1,13 +1,15 @@
-
-<h1 align="center">Hey!! 👋, I'm Durgesh Tiwari</h1>
+<a href="https://durg83034.github.io/Portfolio/" target="blank">BACK</a>
+<h1 align="center">Hi 👋, I'm Girish</h1>
+<h3 align="center">"From DSA Enthusiast to Web Wizard: Unleashing the Power of Algorithms and Embracing the Web"</h3>
+<h1 align="center">Hey!! 👋, I'm <a href="https://durg83034.github.io/Portfolio/" target="blank"> Durgesh Tiwari,</a></h1>
 <h2 align="center">"An enthusiastic computer science fresher, learner and doer. Responsibility and opportunities for progression"</h2>
-
+<img align="right" alt="Coding" width="400" src="hfsi.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durgeshtiwarai&label=Profile%20views&color=0e75b6&style=flat" alt="durgeshtiwari" /> </p>
 
 
 
-- 🌱 I’m currently learning **Back-End**
+- 🌱 I’m currently learning **DATA ANALYTICS**
 
 - 💬 Ask me about **Java, Problem Solving, MySQL, PowerBI**
 
@@ -19,9 +21,9 @@
 
 - ⚡ Fun fact **As a shy introvert, I have a remarkable ability to observe and notice small details that others often miss.**
 
-<h3 align="left"> Projects :</h3>
-  1.<a href="https://durg83034.github.io/Exp-08/experiment/simulation/index.html" target="blank">Determine The Saponification Value of Oil.</a>
-  
+<!--<h3 align="left"> Projects :</h3>
+# 1.<a href="https://durg83034.github.io/Exp-08/experiment/simulation/index.html" target="blank">Determine The Saponification Value of Oil.</a> //
+ -->
 <h3 align="left">Licenses & Certifications :</h3>
 <a href="https://www.hackerrank.com/certificates/d7792f9e73c3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@alldchannel13" height="30" width="40" /></a>
 <a href="https://www.mygreatlearning.com/certificate/XKVCGHJV" target="blank"><img align="center" src="great_learning_logo.png" alt="mygreatlearning" height="30" width="40" /></a>
